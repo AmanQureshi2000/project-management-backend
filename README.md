@@ -7,7 +7,9 @@ It provides CRUD endpoints for **Projects, Tasks, Tags, and Comments**.
 
 ## 🔹 Base URL
 ```
-http://localhost:5000/api
+local=http://localhost:5000/api
+production=https://project-management-backend-od3e.onrender.com/api
+
 ```
 
 ---
